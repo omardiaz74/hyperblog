@@ -1,7 +1,22 @@
 body
 {
-    color: rgb(0, 139, 35);
+    color: #333;
     text-align: center;
     font-family: "Arial";
+    font-size: 16px;        
+    margin: 0%;
+    padding: 0%;
 
+}
+#Container
+{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px #333
+    margin: 0 auto;
+}
+#Conteiner h1
+{
+font-size: 20px;
 }
